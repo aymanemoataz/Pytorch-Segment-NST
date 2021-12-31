@@ -1,5 +1,5 @@
 # pytorch-segment-nst
-I'm working at the moment on vehicle parts detection on videos and I have a lot of lebeled data with bounding boxes and segmentation pixels that I'm looking for ways to use in order to create some artistic videos!
+I'm working at the moment on vehicle parts detection on videos and I have a lot of labeled data with bounding boxes and segmentation pixels that I'm looking for ways to use in order to create some artistic videos!
 # Transferring style on a per-frame basis : Project overview
 * Understanding neural style transfer theory.
 * Exploring optimization and feed forward methods on static images before working on segments of images then videos.
