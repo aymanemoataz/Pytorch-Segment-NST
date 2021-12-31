@@ -7,24 +7,26 @@ I'm working vehicle parts detection on videos and I have a lot of lebeled data w
 * Transferring different styles in different segments of the image.
 * Training custom models.
 
+### NST Introduction
+It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. In order to understand this process we need to learn about content and style reconstruction.
 
 ## Part I : Optimization method - Static image style transfer
-This is what transferring the style of van gogh starry night image into a vehicle image looks like using the optimization method
+This is what transferring the style From Van Gogh starry night and keeping the content of a vehicle image looks like using the optimization method.
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg)
 
-### How does it work?
+
 
 #### Content reconstruction:
 
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat.gif)
+![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat_Trim.gif)
 
 
 #### Style Reconstruction:
 
 This is the style reconstruction of the starry night painting, you can already see that the reconstruction is not similar to the content reconstruction
 
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/style_reconstruction.gif)
+![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/style_reconstruction_Trim.gif)
 
 
 
@@ -40,3 +42,4 @@ This is the style reconstruction of the starry night painting, you can already s
 **Python Version:** 3.9 
 
 **For requirements:**  ```pip install -r requirements.txt```   
+
