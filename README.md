@@ -20,9 +20,8 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 
 This is a small visualization of the change of the content loss and style loss during the process.
 
-<p align="center">
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
-</p>
+
 
 
 ### NST algorithm
