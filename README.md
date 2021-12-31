@@ -9,7 +9,7 @@ I'm working vehicle parts detection on videos and I have a lot of lebeled data w
 
 ### NST Introduction
 
-This is what transferring the style From Van Gogh starry night and keeping the content of a vehicle image looks like using the optimization method.
+This is what transferring the style of Van Gogh starry night painting into a vehicle content image looks like using the optimization method.
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg)
 
