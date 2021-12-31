@@ -27,7 +27,7 @@ This is what transferring the style of Van Gogh's starry night painting into a v
 It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. 
 ## Part I : Optimization method - Static image style transfer
 
-This is a small visualization of the quick initial change of the content loss and style loss during the start of the neural style transfer process (using the optimizer method). To better grasp this process we need to learn about content and style reconstruction. (We're using the night café painting as the style image here)
+This is a small visualization of the quick initial change of the content loss and the style loss during the neural style transfer process (using the optimizer method). To better grasp this process we need to learn about content and style reconstruction. (We're using the night café painting as the style image here)
 
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
