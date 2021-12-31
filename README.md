@@ -40,7 +40,7 @@ This is a small visualization of the quick initial change of the content loss an
 
 
 #### Content reconstruction:
-We first visualize the content reconstruction of a vehicle image from a noise image (the reconstruction is very fast using the L-BFGS optimizer compared to the Adam optimizer), we used a tesla p 100 with 16gb(available with colab pro) to compute the results below.
+We first visualize the content reconstruction of a vehicle image from a noise image (the reconstruction is very fast using the L-BFGS optimizer compared to the Adam optimizer), we used a tesla p 100 with 16gb(available with colab pro) to compute the results below in under 14 seconds.
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat_Trim.gif)
 
