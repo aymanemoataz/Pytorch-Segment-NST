@@ -10,15 +10,20 @@ I'm working vehicle parts detection on videos and I have a lot of lebeled data w
 
 ## Part I : Optimization method - Static image style transfer
 This is what transferring the style of van gogh starry night image into a vehicle image looks like using the optimization method
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat.jpg)
+
+![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg)
+
 ### How does it work?
 
 #### Content reconstruction:
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer.gif)
+
+![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat.gif)
 
 
 #### Style Reconstruction:
+
 This is the style reconstruction of the starry night painting, you can already see that the reconstruction is not similar to the content reconstruction
+
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/style_reconstruction.gif)
 
 
