@@ -8,11 +8,14 @@ I'm working vehicle parts detection on videos and I have a lot of lebeled data w
 * Training custom models.
 
 ### NST Introduction
-It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. In order to understand this process we need to learn about content and style reconstruction.
 
 This is what transferring the style From Van Gogh starry night and keeping the content of a vehicle image looks like using the optimization method.
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg)
+
+### NST algorithm
+
+It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. In order to understand this process we need to learn about content and style reconstruction.
 
 ## Part I : Optimization method - Static image style transfer
 
