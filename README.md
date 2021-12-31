@@ -7,7 +7,7 @@ I am working at the moment on vehicle parts detection on videos and I have a lot
 * Transferring different styles in different segments of the image.
 * Training custom models.
 
-### NST ?
+### Neural style transfer
 
 This is what transferring the style of Van Gogh's starry night painting into a vehicle content image looks like using the optimization method.
 
