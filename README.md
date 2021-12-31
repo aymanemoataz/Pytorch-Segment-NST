@@ -54,5 +54,4 @@ This is the style reconstruction of the starry night painting, you can already s
 
 **Python Version:** 3.9 
 
-**For requirements:**  ```pip install -r requirements.txt```   
 
