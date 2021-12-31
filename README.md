@@ -14,8 +14,8 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 
 <p align="center">
 
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg" width="400px">
-<img src="data/style-images/vg_starry_night_resized.jpg" width="267px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg" width="400px" height="500px">
+<img src="data/style-images/vg_starry_night_resized.jpg" width="267px" height="500px">
 </p>
 
 
