@@ -15,7 +15,7 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 
 ### NST algorithm
 
-It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. In order to understand this process we need to learn about content and style reconstruction.
+It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. To better grasp this process we need to learn about content and style reconstruction.
 
 ## Part I : Optimization method - Static image style transfer
 
