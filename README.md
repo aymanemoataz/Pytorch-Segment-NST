@@ -34,7 +34,7 @@ This is a small visualization of the quick initial change of the content loss an
 
 <p align="center">
 <img src="data/style-images/vg_la_cafe.jpg" width="267px" height="300px">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif" width="400px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/fiatlacafe.jpg" width="400px" height="300px">
 </p>
 
 
