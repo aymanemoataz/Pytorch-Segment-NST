@@ -18,9 +18,7 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 <img src="data/style-images/vg_starry_night_resized.jpg" width="267px" height="300px">
 </p>
 
-This is a small visualization of the change of the content loss and style loss during the process.
 
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
 
 
 
@@ -29,6 +27,10 @@ This is a small visualization of the change of the content loss and style loss d
 It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. To better grasp this process we need to learn about content and style reconstruction.
 
 ## Part I : Optimization method - Static image style transfer
+
+This is a small visualization of the change of the content loss and style loss during the neural style transfer (using the optimizer method).
+
+![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
 
 #### Content reconstruction:
 We first visualize the content reconstruction of a vehicle image from a noise image.
