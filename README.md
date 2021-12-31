@@ -1,5 +1,5 @@
 # pytorch-segment-nst
-I'm working at the moment on vehicle parts detection on videos and I have a lot of labeled data with bounding boxes and segmentation pixels that I'm looking for ways to use in order to create some artistic videos!
+I am working at the moment on vehicle parts detection on videos and I have a lot of labeled data with bounding boxes and segmentation pixels that I am looking for ways to use in order to create some artistic videos!
 # Transferring style on a per-frame basis : Project overview
 * Understanding neural style transfer theory.
 * Exploring optimization and feed forward methods on static images before working on segments of images then videos.
@@ -27,7 +27,7 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 It uses a set of feature maps from the processing hierarchy of CNN nets like VGG-19 in order to transfer style from a style image into a content image. 
 ## Part I : Optimization method - Static image style transfer
 
-This is a small visualization of quick initial change of the content loss and style loss during the start of the neural style transfer process (using the optimizer method). To better grasp this process we need to learn about content and style reconstruction.
+This is a small visualization of the quick initial change of the content loss and style loss during the start of the neural style transfer process (using the optimizer method). To better grasp this process we need to learn about content and style reconstruction.
 
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
