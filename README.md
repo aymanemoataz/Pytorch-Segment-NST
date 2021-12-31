@@ -28,7 +28,7 @@ It uses a set of feature maps from the processing hierarchy of CNN nets like VGG
 
 ## Part I : Optimization method - Static image style transfer
 
-This is a small visualization of the change of the content loss and style loss during the neural style transfer process (using the optimizer method).
+This is a small visualization of quick initial change of the content loss and style loss during the start of the neural style transfer process (using the optimizer method).
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
 
