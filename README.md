@@ -18,7 +18,6 @@ This is what transferring the style of Van Gogh starry night painting into a veh
 <img src="data/style-images/vg_starry_night_resized.jpg" width="267px">
 </p>
 
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/bmw_starry.jpg)
 
 ### NST algorithm
 
