@@ -32,7 +32,11 @@ This is a small visualization of the quick initial change of the content loss an
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
 
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/fiatlacafe.jpg" width="167px" height="200px">
+<p align="center">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/fiatlacafe.jpg" width="267px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/lacafe.jpg" width="400px" height="300px">
+</p>
+
 
 #### Content reconstruction:
 We first visualize the content reconstruction of a vehicle image from a noise image.
