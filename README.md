@@ -32,11 +32,11 @@ It uses a set of feature maps from the processing hierarchy of CNN nets like VGG
 
 #### Content reconstruction:
 We first visualize the content reconstruction of a vehicle image from a noise image.
+
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/noisefiat_Trim.gif)
 
 
 #### Style Reconstruction:
-
 This is the style reconstruction of the starry night painting, you can already see that contrary to content reconstruction, the content of the style image is not preserved. The output image has the same style of the starry night style image. 
 
 ![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/style_reconstruction_Trim.gif)
