@@ -30,9 +30,8 @@ It uses a set of feature maps from the processing hierarchy of CNN nets like VGG
 This is a small visualization of the quick initial change of the content loss and the style loss during the neural style transfer process (using the optimizer method). To better grasp this process we need to learn about content and style reconstruction. (We're using the night café painting as the style image here)
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif" width="400px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif" width="450px" height="300px">
 </p>
-![Game Process](https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/NST_Optimizer_Trim.gif)
 
 <p align="center">
 <img src="data/style-images/vg_la_cafe.jpg" width="267px" height="300px">
