@@ -9,7 +9,7 @@ I am working at the moment on vehicle parts detection on videos and I have a lot
 
 ## What I am currently working on ?
 
-I recently learned about neural style transfer and know I am really curious to combine it with semantic segmentation on car videos. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car video
+I recently learned about neural style transfer and I want to apply it to specific vehicle parts. I am therefore learning the basics of semantic augmentation and starting with the deeplab v3 model. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car in a moving background
 
 <p align="center">
 
