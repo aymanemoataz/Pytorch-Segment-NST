@@ -20,7 +20,7 @@ I recently learned about neural style transfer and I want to apply it to specifi
 </p>
 
 
-And When we introduce movement around the car we get instable video results:
+And when we introduce movement around the car we get instable video results:
 
 <p align="center">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car2_Trim.gif" width="300px" height="300px">
