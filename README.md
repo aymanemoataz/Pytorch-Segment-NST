@@ -7,6 +7,16 @@ I am working at the moment on vehicle parts detection on videos and I have a lot
 * Transferring different styles in different segments of the image.
 * Training custom models.
 
+## What I am currently working on ?
+
+I recently learned about neural style transfer and know I am really curious to combine it with semantic segmentation on car videos. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car video
+
+<p align="center">
+
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_1_Trim.gif" width="400px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car1_Trim.gif" width="400px" height="300px">
+</p>
+
 ### Neural style transfer
 
 This is what transferring the style of Van Gogh's starry night painting into a vehicle content image looks like using the optimization method.
