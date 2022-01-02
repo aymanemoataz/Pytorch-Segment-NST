@@ -23,9 +23,9 @@ I recently learned about neural style transfer and I want to apply it to specifi
 And when we introduce movement around the the mask (either car or background) we get instable video results:
 
 <p align="center">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/c3.gif" width="300px" height="200px">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car2_Trim.gif" width="300px" height="200px">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/stability_problem_Trim.gif" width="300px" height="200px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/c3.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car2_Trim.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/stability_problem_Trim.gif" width="250px" height="230px">
 </p>
 
 After learning more about semantic segmentation I will train a model for specific vehicle parts using the dataset that I use for object detection in my current project that you can check here <a href="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment" target="_blank">Vehicle_parts_detection</a>
