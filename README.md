@@ -20,12 +20,14 @@ I recently learned about neural style transfer and I want to apply it to specifi
 </p>
 
 
-And When we introduce movement in the initial video we get this :
+And When we introduce movement around the car we get instable video results:
 
 <p align="center">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car2_Trim.gif" width="300px" height="300px">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/stability_problem_Trim.gif" width="400px" height="300px">
 </p>
+
+After learning more about semantic segmentation I will train a model for specific vehicle parts using the dataset that I use for object detection in my current project that you can check here <a href="https://github.com/aymanemoataz/Monk-AI---Data-quality-assessment" target="_blank">Vehicle_parts_detection</a>
 
 
 
