@@ -31,7 +31,7 @@ After learning more about semantic segmentation I will train a model for specifi
 
 
 
-### Neural style transfer
+## Neural style transfer
 
 This is what transferring the style of Van Gogh's starry night painting into a vehicle content image looks like using the optimization method.
 
