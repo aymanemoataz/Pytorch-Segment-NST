@@ -13,8 +13,9 @@ I recently learned about neural style transfer and know I am really curious to c
 
 <p align="center">
 
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_1_Trim.gif" width="400px" height="300px">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car1_Trim.gif" width="400px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_1_Trim.gif" width="400px" height="300px">
+
 </p>
 
 ### Neural style transfer
