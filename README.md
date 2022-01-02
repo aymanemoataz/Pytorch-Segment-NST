@@ -14,8 +14,8 @@ I recently learned about neural style transfer and I want to apply it to specifi
 <p align="center">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/000008%20(1).jpg" width="250px" height="170px">
 
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_1_Trim.gif" width="250px" height="170px">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_starry_1_Trim.gif" width="250px" height="170px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/Z.gif" width="250px" height="170px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/ezgif.com-gif-maker.gif" width="250px" height="170px">
 
 </p>
 
