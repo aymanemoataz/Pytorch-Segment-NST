@@ -7,16 +7,23 @@ I am working at the moment on vehicle parts detection on videos and I have a lot
 * Transferring different styles in different segments of the image.
 * Training custom models.
 
-## What I am currently working on ?
+### What I am currently working on ?
 
-I recently learned about neural style transfer and I want to apply it to specific vehicle parts. I am therefore learning the basics of semantic augmentation and starting with the deeplab v3 model. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car in a moving background
+I recently learned about neural style transfer and I want to apply it to specific vehicle parts. I am therefore learning the basics of semantic segmentation and starting with the deeplab v3 model. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car in a moving background :
 
 <p align="center">
-
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car1_Trim.gif" width="300px" height="300px">
 <img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/composed_background_masked_1_Trim.gif" width="400px" height="300px">
-
 </p>
+
+And When we introduce movement in the initial video we get this :
+
+<p align="center">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/car2_Trim.gif" width="300px" height="300px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/stability_problem_Trim.gif" width="400px" height="300px">
+</p>
+
+
 
 ### Neural style transfer
 
