@@ -12,10 +12,10 @@ I am working at the moment on vehicle parts detection on videos and I have a lot
 
 I recently learned about neural style transfer and I want to apply it to specific vehicle parts. I am therefore learning the basics of semantic segmentation and starting with the deeplab v3 model. The naive video results are not stable and we need to explore some techniques to stabilize them. You can see below video results for a stable car in a moving background :
 <p align="center">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/s1.jpg" width="300px" height="230px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/s1.jpg" width="250px" height="230px">
 
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/Z.gif" width="300px" height="230px">
-<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/ezgif.com-gif-maker.gif" width="300px" height="230px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/Z.gif" width="250px" height="230px">
+<img src="https://github.com/aymanemoataz/pytorch-segment-nst/blob/main/results/ezgif.com-gif-maker.gif" width="250px" height="230px">
 
 </p>
 
