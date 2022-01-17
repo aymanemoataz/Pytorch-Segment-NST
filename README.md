@@ -81,7 +81,6 @@ This is the style reconstruction of the starry night painting, you can see that 
 
 ## Code and Resources Used 
 
-**Aleksa's github repo:** https://github.com/gordicaleksa/pytorch-neural-style-transfer
 
 **Pytorch**
 
